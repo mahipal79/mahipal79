@@ -32,13 +32,5 @@ Let's connect and build the future together! 🌟
 ---
 
 
-- 🌱 I’m currently learning **MongoDB**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Graphic Design and Web Development**
-- 📫 How to reach me:
-  **[LinkedIn](https://www.linkedin.com/in/mahipal-chauhan), [Twitter](https://twitter.com/mahipal_79), [Instagram](https://instagram.com/mahipal_chauhan9)**
 
-![Mahipal's github stats](https://github-readme-stats.vercel.app/api?username=mahipal79&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahipal79&layout=compact&theme=dark&hide_border=true)
 
