@@ -17,7 +17,11 @@ Let's connect and build the future together! 🌟
 
 [![Linkedin: Mahipal](https://img.shields.io/badge/-Mahipal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahipal-chauhan)](https://www.linkedin.com/in/mahipal-chauhan-978396268/)
 [![GitHub Mahipal](https://img.shields.io/github/followers/mahipal79?label=follow&style=social)](https://github.com/mahipal79)
-![Twitter Follow](https://img.shields.io/twitter/follow/mahipal_79?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mahipal_79?style=social)](https://x.com/mahipal_79?t=szfq5j7645qcicO1J8KbRA&s=09)
+<a href="https://www.instagram.com/mahipal_chauhan9?igsh=Z29qaWx0cmhsc3hm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @mahipal_chauhan9
+
+
+
 
 
 ### Top Skills:
