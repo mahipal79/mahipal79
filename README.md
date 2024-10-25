@@ -15,7 +15,7 @@
 
 Let's connect and build the future together! 🌟
 
-[![Linkedin: Mahipal](https://img.shields.io/badge/-Mahipal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahipal-chauhan)](https://www.linkedin.com/in/mahipal-chauhan)
+[![Linkedin: Mahipal](https://img.shields.io/badge/-Mahipal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahipal-chauhan)](https://www.linkedin.com/in/mahipal-chauhan-978396268/)
 [![GitHub Mahipal](https://img.shields.io/github/followers/mahipal79?label=follow&style=social)](https://github.com/mahipal79)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mahipal_79?style=social)
 
