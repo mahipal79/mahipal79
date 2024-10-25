@@ -11,7 +11,7 @@
 # Let's connect and build the future together! 🌟
 
 [![Linkedin Badge](https://img.shields.io/badge/-mahipal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mahipal-chauhan-978396268/)](https://www.linkedin.com/in/mahipal-chauhan-978396268/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/mahipal_chauhan9?igsh=Z29qaWx0cmhsc3hm)](https://www.instagram.com/mahipal_chauhan9?igsh=Z29qaWx0cmhsc3hm)
+[![Instagram Badge](https://img.shields.io/badge/-mahipal_chauhan9-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/mahipal_chauhan9?igsh=Z29qaWx0cmhsc3hm)](https://www.instagram.com/mahipal_chauhan9?igsh=Z29qaWx0cmhsc3hm)
 [![Gmail Badge](https://img.shields.io/badge/-chauhanmahipal79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chauhanmahipal79@gmail.com)](mailto:chauhanmahipal79@gmail.com)
 
 
